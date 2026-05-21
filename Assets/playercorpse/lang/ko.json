@@ -1,0 +1,14 @@
+{
+  "item-creature-playercorpse": "플레이어 시체",
+  "blockhelp-collect": "수집",
+  "game:ingameerror-not-corpse-owner": "당신 시체가 아니다!",
+  "corpse-free": "아무나 수집 가능",
+  "corpse-created(date={0})": "{0}에 생성됨",
+  "item-corpsecompass": "시체 나침반",
+  "playercorpse:item-handbooktitle-playercorpse:corpsecompass": "사용법",
+  "playercorpse:item-handbooktext-playercorpse:corpsecompass": "당신 시체를 찾는 데 도움을 줍니다. 또 서버 관리자는 server-main.txt 로그를 확인해 모든 시체의 정확한 좌표를 알 수 있습니다 (크리에이티브 사용)<br/><br/><b>플레이어 주변 7x7 청크를 탐색합니다 (기본 224x256x224 블록)</b>",
+  "corpsecompass-corpses-not-found": "주변에 시체를 찾지 못 함",
+  "corpsecompass-target-set": "마지막 시체로 목표 지정",
+  "corpsecompass-no-last-corpse": "마지막 시체 찾지 못 함",
+  "death-waypoint-name": "사망: {0}"
+}

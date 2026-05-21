@@ -1,11 +1,12 @@
 {
-    "item-creature-playercorpse": "Cadáver del jugador",
-    "blockhelp-collect": "Recoger",
-    "game:ingameerror-not-corpse-owner": "¡Este no es tu cadáver!",
-    "corpse-free": "Libre para todos",
-    "corpse-created(date={0})": "Creado {0}",
-    "item-corpsecompass": "Brújula de cadáver",
-    "playercorpse:item-handbooktitle-playercorpse:corpsecompass": "Uso",
-    "playercorpse:item-handbooktext-playercorpse:corpsecompass": "Ayuda a encontrar tus cuerpos. Los administradores del servidor también pueden comprobar el registro del servidor.txt para las coordenadas exactas de todos los cuerpos (usado al agacharse) <br/><br/><b>Solo funciona para la actual columna de chunks, por defecto es de 32x256x32 bloques</b>",
-    "corpsecompass-corpses-not-found": "No se encontraron cuerpos en esta columna de chunks"
+  "item-creature-playercorpse": "Cadáver del jugador",
+  "blockhelp-collect": "Recoger",
+  "game:ingameerror-not-corpse-owner": "¡Este no es tu cadáver!",
+  "corpse-free": "Libre para todos",
+  "corpse-created(date={0})": "Creado {0}",
+  "item-corpsecompass": "Brújula de cadáver",
+  "playercorpse:item-handbooktitle-playercorpse:corpsecompass": "Uso",
+  "playercorpse:item-handbooktext-playercorpse:corpsecompass": "Ayuda a encontrar tus cadáveres. Los administradores del servidor también pueden consultar el registro server-main.txt para obtener las coordenadas exactas de todos los cadáveres (se usa en el modo Creativo).<br/><br/><b>Busca en bloques de 7x7 alrededor del jugador (bloques de 224x256x224 por defecto).</b>",
+  "corpsecompass-corpses-not-found": "No hay cadáveres alrededor",
+  "corpsecompass-no-last-corpse": "Último cadáver no encontrado"
 }

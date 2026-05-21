@@ -4,6 +4,7 @@
 bin
 obj
 *.sln
+*.slnx
 *.user
 
 # Mod Builder
